@@ -25,6 +25,7 @@ The data exploration process involves using MySQL to analyze the data. The data 
 
 ###  Dashboard Visualization
 
-![weather_data_dashboard](https://user-images.githubusercontent.com/90148389/225709209-c202b3f5-074d-47c5-9025-ba3c4527fdae.png)
+![Screenshot 2023-03-16 141206](https://user-images.githubusercontent.com/90148389/225709723-b7ad2487-e7a1-43a1-91e2-78e5ee23d5e7.png)
+
 
 
