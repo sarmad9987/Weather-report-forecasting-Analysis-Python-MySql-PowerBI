@@ -4,3 +4,7 @@ Weather prediction is one of the most certainly required information in all over
 
 ## Project Description
 This project utilizes Python for data cleaning, MySQL for data exploration, Facebook Prophet for data prediction, and Microsoft Power BI for dashboard visualization. The project aims to provide users with accurate weather predictions and insights.
+
+
+### Data Cleaning
+The data cleaning process involves using Python to clean and prepare the data for analysis. The Python script removes duplicates, preprocess and standardizes the format of the data.
