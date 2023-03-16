@@ -19,7 +19,8 @@ The data exploration process involves using MySQL to analyze the data. The data 
 [SQL Queries](https://github.com/sarmad9987/Weather-report-forecasting-Analysis-Python-MySql-PowerBI/blob/main/Weather_data_queries.sql)
 
 ### Data Prediction
-[SQL Queries](https://github.com/sarmad9987/Weather-report-forecasting-Analysis-Python-MySql-PowerBI/blob/main/Weather_data_queries.sql)
+[Code](https://github.com/sarmad9987/Weather-report-forecasting-Analysis-Python-MySql-PowerBI/blob/main/Weather_data_prediction.ipynb)
 
+![predictions](https://user-images.githubusercontent.com/90148389/225708820-2dde41a9-50e8-4ba3-b898-253d56f66706.png)
 
 
