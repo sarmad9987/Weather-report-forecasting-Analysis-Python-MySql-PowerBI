@@ -15,4 +15,5 @@ The data cleaning process involves using Python to clean and prepare the data fo
 
 
 ### Data Exploration
-The data exploration process involves using MySQL to analyze the data. The data is queried, filtered, and summarized to identify patterns and trends. The insights gained from this process inform the data prediction step. ![SQL Queries]([https://github.com/sarmad9987/Weather-report-forecasting-Analysis-Python-MySql-PowerBI/blob/main/weather_dataset_cleaning.ipynb](https://github.com/sarmad9987/Weather-report-forecasting-Analysis-Python-MySql-PowerBI/blob/main/Weather_data_queries.sql))
+The data exploration process involves using MySQL to analyze the data. The data is queried, filtered, and summarized to identify patterns and trends. The insights gained from this process inform the data prediction step. 
+![SQL Queries](https://github.com/sarmad9987/Weather-report-forecasting-Analysis-Python-MySql-PowerBI/blob/main/Weather_data_queries.sql)
