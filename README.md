@@ -1,7 +1,3 @@
-![prophet_blue](https://user-images.githubusercontent.com/90148389/225710704-d5149b3d-4945-4b31-baa4-cdebb3618921.png)![weather-forecast-app-rgb-color-icon-meteorological-software-real-time-data-temperature-humidity-wind-delivering-forecasts-204167893](https://user-images.githubusercontent.com/90148389/225710728-48f8a624-fca5-45f7-833a-f0177d8dcb08.jpg)
-
-
-
 
 # Weather report forecast and analysis
 
