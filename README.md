@@ -28,5 +28,25 @@ The data exploration process involves using MySQL to analyze the data. The data 
 
 ![Screenshot 2023-03-16 141206](https://user-images.githubusercontent.com/90148389/225709723-b7ad2487-e7a1-43a1-91e2-78e5ee23d5e7.png)
 
+## Tools and techniques:
+
+-Power Query (Excel)
+
+-Data transformation (Appending data) 
 
 
+## SQL concepts:
+
+-Aggregation
+
+-Subqueries
+
+-Case When, SUM(CASE WHEN...)
+
+-JOIN Types
+
+-Max/Min/Average
+
+-Over/Partition By
+
+-Lead/Lag
